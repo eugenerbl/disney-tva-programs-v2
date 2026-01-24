@@ -59,8 +59,6 @@ Each row contains the following **10** variables:
 
 ## More Information
 
-Read some of my analysis on these shows in my [Observable notebook](https://observablehq.com/@eugenerbl/disney-tva-programs).
-
 If you believe there is inaccurate or misleading data, please leave a comment, and I'll make sure to write back!
 
 This database and repository are protected under the [MIT license](https://choosealicense.com/licenses/mit/).
