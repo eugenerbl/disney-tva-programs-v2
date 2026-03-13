@@ -3,14 +3,17 @@ A summary of all programs aired by Disney Television Animation.
 
 *Last Updated: January 10, 2026*
 
+<h2 style="text-align: center;">📊 Observable Notebook is Live!</h2>
 
-## About Disney TVA
+<p style="text-align: center;">I've created a <a href="https://observablehq.com/@eugenerbl/disney-tva-programs-v2" target="_blank" title="Disney TVA Programs v2 on Observable">notebook on Observable</a> to analyze these shows and visualize the history of Disney TVA. Check it out!</p>
+
+## 📺 About Disney TVA
 **Disney Television Animation** (established December 5, 1984) is the animation studio that operates as the animation production unit for Disney Branded Television, a division of Walt Disney Television. This division is responsible for the creation, development, and production of animated television series, films, specials, and shorts.
 
 Disney TVA has produced shows for major TV networks such as ABC and CBS, as well as for syndicated blocks such as “The Disney Afternoon” and “Disney's One Saturday Morning”. Today, Disney TVA primarily manages content for three TV networks (**Disney Channel**, **Disney XD**, and **Disney Junior**) and the **Disney+** streaming service.
 
 
-## Variables
+## 📄 Variables
 
 This database includes **102** programs that have aired or are currently broadcast by Disney TVA. This dataset will be updated periodically as shows premiere, end, and air new episodes.
 
@@ -57,8 +60,10 @@ Each row contains the following **10** variables:
 - *Phineas and Ferb* was revived for a fifth season in 2025, a decade after the show originally ended. The database has been updated to include a new entry for the 2025 revival, with the premiere date indicating the start of the fifth season. The season and episode counts for this entry include the totals from the original run.
 
 
-## More Information
+## ℹ️ More Information
 
 If you believe there is inaccurate or misleading data, please leave a comment, and I'll make sure to write back!
+
+All programs mentioned in this database belong to Disney Television Animation, a subsidiary of Disney Branded Television.
 
 This database and repository are protected under the [MIT license](https://choosealicense.com/licenses/mit/).
